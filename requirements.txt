@@ -1,0 +1,10 @@
+numpy
+pandas
+scipy
+lmfit
+ramanspy
+tensorflow
+scikit-learn
+matplotlib
+streamlit
+# originpro — опционально, только Windows с установленным OriginPro

@@ -1,0 +1,19 @@
+# окружение и IDE
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+__pycache__/
+*.pyc
+
+# данные и промежуточные файлы
+data/raw/*
+data/processed/*
+data/synthetic_spectra/*
+!data/*/.gitkeep
+neyronka/output/*.csv
+neyronka/output/*.zip
+
+# служебные документы
+templates/
